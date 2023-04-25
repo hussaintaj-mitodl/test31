@@ -1,0 +1,36 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test31"
+  },
+  "course_image": {
+    "content": "a039ab0e-98de-45ed-a06c-1e1335208c39",
+    "website": "test31"
+  },
+  "course_title": "title",
+  "course_description": "ds",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "1",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "5c78399c-e4ce-419f-b98d-e849973172bf",
+    "website": "test31"
+  },
+  "learning_resource_types": [],
+  "site_uid": "1d7be92b-1540-4ac1-907c-f03eca94e799",
+  "site_short_id": "test31"
+}
